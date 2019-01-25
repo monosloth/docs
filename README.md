@@ -1,0 +1,2 @@
+# docs
+Monosloth framework documentation
